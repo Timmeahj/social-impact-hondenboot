@@ -13,3 +13,5 @@ Hondenboot Antwerpen is a non profit organisation that trains service dogs to ai
 [Visit the new website](https://timmeahj.github.io/social-impact-hondenboot/index.html)
 
 Preview:
+
+![Hondenboot preview](https://timmeahj.github.io/social-impact-hondenboot/preview.png)
