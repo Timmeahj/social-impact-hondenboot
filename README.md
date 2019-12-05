@@ -1,7 +1,9 @@
 # Solo Challenge
 ## Social impact
 
-For this project I chose to make a website for the vzw Hondenboot Antwerpen. Their website is a little outdated and in desperate need for a new breath of life, which is what I'm hoping to provide for them.
+For this project I chose to make a website for the vzw Hondenboot Antwerpen. Their website is a little outdated and in desperate need for a new breath of life, which is what I'm hoping to provide for them.w
+
+!DISCLAIMER! For the skeleton of this website I used a free HTML / CSS template since we had 5 hours to make this assignment.
 
 
 ## What is Hondenboot Antwerpen.
